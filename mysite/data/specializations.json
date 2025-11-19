@@ -1,0 +1,156 @@
+
+[
+    {
+        "model": "accounts.engineeringspecialization",
+        "pk": "c9c2e5a6-9c9a-4f3d-a7a7-0e5d1b7a6e7a",
+        "fields": {
+            "name": "Aeronautical Engineering",
+            "code": "AE",
+            "description": "Deals with the design, construction, and study of the science behind the forces and physical properties of aircraft, rockets, and spacecraft."
+        }
+    },
+    {
+        "model": "accounts.engineeringspecialization",
+        "pk": "d8b1c4b9-8d1e-4f3e-add2-4a5e8b6c3e7a",
+        "fields": {
+            "name": "Agricultural Engineering",
+            "code": "AgE",
+            "description": "Applies engineering science and technology to agricultural production and processing."
+        }
+    },
+    {
+        "model": "accounts.engineeringspecialization",
+        "pk": "a7c2b3e4-8d1e-4f3e-add2-4a5e8b6c3e7a",
+        "fields": {
+            "name": "Artificial Intelligence and Robotics Engineering",
+            "code": "AIRE",
+            "description": "Focuses on creating intelligent machines and robots that can work and react like humans."
+        }
+    },
+    {
+        "model": "accounts.engineeringspecialization",
+        "pk": "b6a2c3d4-9c9a-4f3d-a7a7-0e5d1b7a6e7a",
+        "fields": {
+            "name": "Biomedical Engineering",
+            "code": "BME",
+            "description": "A multidisciplinary field that combines biology and engineering, applying engineering principles to medicine and healthcare."
+        }
+    },
+    {
+        "model": "accounts.engineeringspecialization",
+        "pk": "f5d4e3c2-1b1a-4f3e-add2-4a5e8b6c3e7a",
+        "fields": {
+            "name": "Chemical Engineering",
+            "code": "ChE",
+            "description": "Involves the production and manufacturing of products through chemical processes."
+        }
+    },
+    {
+        "model": "accounts.engineeringspecialization",
+        "pk": "e4c3b2a1-0a0a-4f3d-a7a7-0e5d1b7a6e7a",
+        "fields": {
+            "name": "Civil Engineering",
+            "code": "CE",
+            "description": "Deals with the design, construction, and maintenance of the physical and naturally built environment, including works like roads, bridges, and canals."
+        }
+    },
+    {
+        "model": "accounts.engineeringspecialization",
+        "pk": "9a8b7c6d-5e5d-4f3e-add2-4a5e8b6c3e7a",
+        "fields": {
+            "name": "Computer Science Engineering",
+            "code": "CSE",
+            "description": "Integrates several fields of computer science required to develop computer hardware and software."
+        }
+    },
+    {
+        "model": "accounts.engineeringspecialization",
+        "pk": "8a7b6c5d-4e4d-4f3d-a7a7-0e5d1b7a6e7a",
+        "fields": {
+            "name": "Electrical Engineering",
+            "code": "EE",
+            "description": "Deals with the study, design, and application of equipment, devices, and systems which use electricity, electronics, and electromagnetism."
+        }
+    },
+    {
+        "model": "accounts.engineeringspecialization",
+        "pk": "7a6b5c4d-3d3d-4f3e-add2-4a5e8b6c3e7a",
+        "fields": {
+            "name": "Electronics and Communication Engineering",
+            "code": "ECE",
+            "description": "Involves designing, developing, and testing electronic equipment used in various systems."
+        }
+    },
+    {
+        "model": "accounts.engineeringspecialization",
+        "pk": "6a5b4c3d-2c2c-4f3d-a7a7-0e5d1b7a6e7a",
+        "fields": {
+            "name": "Mechanical Engineering",
+            "code": "ME",
+            "description": "Applies engineering, physics, and materials science principles to design, analyze, manufacture, and maintain mechanical systems."
+        }
+    },
+    {
+        "model": "accounts.engineeringspecialization",
+        "pk": "5a4b3c2d-1b1b-4f3e-add2-4a5e8b6c3e7a",
+        "fields": {
+            "name": "Metallurgical Engineering",
+            "code": "MetE",
+            "description": "The study of the physical and chemical behavior of metallic elements, their inter-metallic compounds, and their mixtures, which are called alloys."
+        }
+    },
+    {
+        "model": "accounts.engineeringspecialization",
+        "pk": "4a3b2c1d-0a0a-4f3d-a7a7-0e5d1b7a6e7a",
+        "fields": {
+            "name": "Mining Engineering",
+            "code": "MinE",
+            "description": "Associated with the practice, theory, science, technology, and application of extracting and processing minerals from a naturally occurring environment."
+        }
+    },
+    {
+        "model": "accounts.engineeringspecialization",
+        "pk": "3a2b1c0d-9a9a-4f3e-add2-4a5e8b6c3e7a",
+        "fields": {
+            "name": "Petroleum Engineering",
+            "code": "PE",
+            "description": "Concerned with the activities related to the production of hydrocarbons, which can be either crude oil or natural gas."
+        }
+    },
+    {
+        "model": "accounts.engineeringspecialization",
+        "pk": "2a1b0c9d-8a8a-4f3d-a7a7-0e5d1b7a6e7a",
+        "fields": {
+            "name": "Production Engineering",
+            "code": "ProdE",
+            "description": "A combination of manufacturing technology with management science."
+        }
+    },
+    {
+        "model": "accounts.engineeringspecialization",
+        "pk": "1a0b9c8d-7a7a-4f3e-add2-4a5e8b6c3e7a",
+        "fields": {
+            "name": "Robotics Engineering",
+            "code": "RE",
+            "description": "An interdisciplinary branch of engineering and science that includes mechanical engineering, electrical engineering, computer science, and others."
+        }
+    },
+    {
+        "model": "accounts.engineeringspecialization",
+        "pk": "0a9b8c7d-6a6a-4f3d-a7a7-0e5d1b7a6e7a",
+        "fields": {
+            "name": "Structural Engineering",
+            "code": "SE",
+            "description": "A specialty within civil engineering in which structural engineers are trained to design the 'bones and muscles' that create the form and shape of man-made structures."
+        }
+    },
+    {
+        "model": "accounts.engineeringspecialization",
+        "pk": "9a8b7c6d-5a5a-4f3e-add2-4a5e8b6c3e7a",
+        "fields": {
+            "name": "Telecommunication Engineering",
+            "code": "TE",
+            "description": "Focuses on electrical and computer engineering which seeks to support and enhance telecommunication systems."
+        }
+    }
+]
